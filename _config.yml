@@ -44,7 +44,7 @@ defaults:
       path: ""
       type: my_tags
     values:
-      layout: articles_by_tag
+      layout: default
 exclude:
   - .travis.yml
   - bin/*
